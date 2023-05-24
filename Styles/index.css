@@ -1,0 +1,27 @@
+.cover{
+    height: 200px;
+    width: 100px;
+}
+table{
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    align-items: center ;
+}
+button{
+    font-weight: bold;
+    border-radius: 5%;
+    border-width: 0px;
+    box-shadow: 2px 2px 2px black;
+}
+.updatebtn, .addbtn{
+    background-color:#005b96;
+}
+.deletebtn{
+    background-color:#ff0000;
+}
+
+.btntxt, .addbtn{    
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,19 @@
+a{
+    color: red;
+}
+div{
+    padding: 1% 0%;
+}
+td{
+    padding: 1% 2%;
+    font-weight: bold;
+}
+.submitbtn{
+    font-weight: bold;
+    border-radius: 5%;
+    border-width: 0px;
+    box-shadow: 2px 2px 2px black;
+    background-color:#005b96;
+    text-decoration: none;
+    color: white;
+}
